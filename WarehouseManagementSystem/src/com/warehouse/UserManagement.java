@@ -87,7 +87,7 @@ UserManagement()
 static void UserLogin()
 
 {
-    System.out.println("\n<<<<<Inventory Management>>>>>");
+    System.out.println("\n<<<<<User Management>>>>>");
     System.out.println("1.Add User");
     System.out.println("2.User List");
     System.out.println("3.Delete User");
